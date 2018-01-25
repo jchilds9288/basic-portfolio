@@ -1,0 +1,13 @@
+body {
+    font-family: 'Trebuchet MS';
+    
+}
+
+
+header {
+    background-color: black;
+    padding: 5px;
+    color:white;
+    padding-left: 40px;
+    font-size: 35px;
+}
